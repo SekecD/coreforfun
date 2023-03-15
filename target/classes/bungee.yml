@@ -1,0 +1,3 @@
+name: core
+version: '${project.version}'
+main: org.example.mastaa.unr.Core
